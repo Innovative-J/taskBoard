@@ -1,11 +1,9 @@
 # taskBoard
 
-
-This repo contain starter code for a task board project that will be draggable and work with API's 
+This repo contain starter code for a task board project that will be draggable and work with API's
 
 - This starter code is meant to help me understand and pracrice my JS knowledge to help prepare me for real world problem solving.
 - This page will help me understanding the areas in JS i will need to improve.
-
 
 ## Table of Contents
 
@@ -17,7 +15,7 @@ A short table of contents to help find the specific areas that contain all the i
 
 ## Usage
 
-Copy or use the gith hub url either from here from git hub in order to view the website. [Website Url](https://innovative-j.github.io/Blog_Post/)
+Copy or use the gith hub url either from here from git hub in order to view the website. [Website Url](https://innovative-j.github.io/taskBoard/). Images of the site are in the images folder.
 
 No instalation required just a simple browser will work.
 
